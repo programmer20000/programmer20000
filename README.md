@@ -1,16 +1,26 @@
-### Hi there 👋
+# Welcome in my GitHub profile
 
-<!--
-**programmer20000/programmer20000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Michael the Apostle, I am a Junior python programmer**
 
-Here are some ideas to get you started:
+ # Python Developing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## I know technologies and libraries
+
+ * Python kivy
+ * Python tkinter
+ * Parsig with Senium
+ * Parsig with requests beautifulsoup4 lxml
+ * Python Django 
+ 
+
+# Web Developing
+
+ ## I know technologies
+
+ * HTML
+ * CSS
+ * Bootstrap
+
+# Other laguage
+ * Java 
+ * Mysql 
