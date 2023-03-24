@@ -24,4 +24,9 @@
 # Other laguage
  * Java 
  * Mysql
- * Markdown 
+ * Markdown
+
+ # Love occupations
+ * Slove tasks on website [codewars](https://www.codewars.com/users/programmer20000)
+ * Editing Photo in photoshop
+ 
