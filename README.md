@@ -28,5 +28,6 @@
 
  # Love occupations
  * Slove tasks on website [codewars](https://www.codewars.com/users/programmer20000)
+ * Slove tasks on website [LeetCode](https://leetcode.com/programmer20000/)
  * Editing Photo in photoshop
  
