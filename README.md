@@ -6,10 +6,10 @@
 
  ## I know technologies and libraries
 
- * Python kivy
- * Python tkinter
- * Parsig with Senium
- * Parsig with requests beautifulsoup4 lxml
+ * Python Kivy
+ * Python Tkinter
+ * Parsing with Selenium
+ * Parsing with requests beautifulsoup4 lxml
  * Python Django 
  
 
@@ -21,13 +21,15 @@
  * CSS
  * Bootstrap
 
-# Other laguage
+# Other language
  * Java 
  * Mysql
  * Markdown
 
  # Love occupations
- * Slove tasks on website [codewars](https://www.codewars.com/users/programmer20000)
- * Slove tasks on website [LeetCode](https://leetcode.com/programmer20000/)
- * Editing Photo in photoshop
+ * Solving tasks on website [Codewars](https://www.codewars.com/users/programmer20000)
+ * Solving tasks on website [LeetCode](https://leetcode.com/programmer20000/)
+ * Developing  differently HTML templates on [CodePen](https://codepen.io/programmer20000)
+
+ * Editing Photo in Photoshop
  
