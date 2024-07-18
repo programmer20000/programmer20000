@@ -1,35 +1,28 @@
-# Welcome in my GitHub profile
+![Header](assets/header.png)
 
-**My name is Michael the Apostle, I am a Junior python programmer**
+**Hello I am a Junior python Developer**
 
- # Python Developing
+### Languages and Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Python Selenium](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
- ## I know technologies and libraries
 
- * Python Kivy
- * Python Tkinter
- * Parsing with Selenium
- * Parsing with requests beautifulsoup4 lxml
- * Python Django 
- 
+### Other Information
+I am 20 year and are a wheelchair 
 
-# Web Developing
+### Language
+* Romanian (mother tongue)
+* English (beginner)
+* Russian (fluent)
 
- ## I know technologies
-
- * HTML
- * CSS
- * Bootstrap
-
-# Other language
- * Java 
- * Mysql
- * Markdown
-
- # Love occupations
- * Solving tasks on website [Codewars](https://www.codewars.com/users/programmer20000)
- * Solving tasks on website [LeetCode](https://leetcode.com/programmer20000/)
- * Developing  differently HTML templates on [CodePen](https://codepen.io/programmer20000)
-
- * Editing Photo in Photoshop
- 
+### Hobbies
+* Studying English
+* Editing photos in Photoshop
+* Installing window and linux system
+* Developing  differently HTML templates on [CodePen](https://codepen.io/programmer20000)
+* Solving tasks on [Codewars](https://www.codewars.com/users/programmer20000) and [LeetCode](https://leetcode.com/programmer20000/)
